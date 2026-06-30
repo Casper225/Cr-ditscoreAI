@@ -1,4 +1,4 @@
-# 🏦 CréditScore AI — Prédiction d'Accord de Prêt Bancaire
+#  CréditScore AI — Prédiction d'Accord de Prêt Bancaire
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?style=flat-square&logo=python)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.32-red?style=flat-square&logo=streamlit)
@@ -9,24 +9,22 @@
 
 ---
 
-## 🎯 Objectif
+##  Objectif
 
 Ce projet a été réalisé dans le cadre de la formation **Data Scientist** chez **GoMyCode Côte d'Ivoire**.  
 Il couvre l'ensemble du cycle de vie d'un modèle ML : exploration des données, nettoyage, entraînement, évaluation et déploiement.
 
 ---
 
-## 🚀 Démonstration
+##  Démonstration
 
-👉 **[Accéder à l'application](https://votre-lien-streamlit.streamlit.app)**
+ **[Accéder à l'application]([(https://creditscoreai.streamlit.app/))]**
 
-![App Preview](https://img.shields.io/badge/Interface-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)
 
----
 
-## 📁 Structure du projet
 
-```
+## Structure du projet
+
 creditscore-ai/
 │
 ├── app.py                  # Application Streamlit (interface utilisateur)
@@ -39,7 +37,7 @@ creditscore-ai/
 
 ---
 
-## 🧠 Modèle Machine Learning
+##  Modèle Machine Learning
 
 ### Algorithme
 **Random Forest Classifier** — choisi pour sa robustesse sur les données tabulaires bancaires et sa résistance naturelle aux valeurs aberrantes.
@@ -82,7 +80,7 @@ Données brutes
 
 ---
 
-## 🛠️ Technologies utilisées
+##  Technologies utilisées
 
 | Outil | Usage |
 |---|---|
@@ -96,7 +94,7 @@ Données brutes
 
 ---
 
-## ⚙️ Installation locale
+##  Installation locale
 
 ```bash
 # 1. Cloner le dépôt
@@ -112,7 +110,7 @@ streamlit run app.py
 
 ---
 
-## 📊 Variables utilisées par le modèle
+##  Variables utilisées par le modèle
 
 | Variable | Description |
 |---|---|
@@ -129,7 +127,7 @@ streamlit run app.py
 
 ---
 
-## 👤 Auteur
+##  Auteur
 
 **N'Gbla Eric Lionel Kouakou**  
 Process Owner & Data Scientist en formation  
@@ -140,7 +138,7 @@ Process Owner & Data Scientist en formation
 
 ---
 
-## 📄 Licence
+## Licence
 
 Ce projet est réalisé à des fins éducatives dans le cadre de la formation GoMyCode.  
 Données issues de [Kaggle — Loan Prediction Dataset](https://www.kaggle.com/).
