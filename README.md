@@ -24,7 +24,7 @@ Il couvre l'ensemble du cycle de vie d'un modèle ML : exploration des données,
 
 
 ## Structure du projet
-
+```
 creditscore-ai/
 │
 ├── app.py                  # Application Streamlit (interface utilisateur)
@@ -81,7 +81,7 @@ Données brutes
 ---
 
 ##  Technologies utilisées
-
+---
 | Outil | Usage |
 |---|---|
 | `pandas` / `numpy` | Manipulation et analyse des données |
