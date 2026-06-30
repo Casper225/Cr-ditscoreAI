@@ -18,7 +18,7 @@ Il couvre l'ensemble du cycle de vie d'un modèle ML : exploration des données,
 
 ##  Démonstration
 
- **[Accéder à l'application]([(https://creditscoreai.streamlit.app/))]**
+ **[Accéder à l'application]:([(https://creditscoreai.streamlit.app/)]**
 
 
 
